@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+article{
+    background-color: white;
+}
+nav{
+    background-color: plum;
+}
+nav ul li a{
+    color: black;
+}
+nav ul li a:hover{
+    color: white;
+}
+footer{    
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: plum;
+    color: white;
+    text-align: left;
+    padding: 3%;
+}
